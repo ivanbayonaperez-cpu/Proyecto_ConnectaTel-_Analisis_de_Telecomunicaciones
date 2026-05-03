@@ -13,7 +13,7 @@ Análisis completo del comportamiento de uso de servicios móviles (llamadas y m
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1sPA7zwj2I_G46gxSh56cbzv1s_qeELfu))]
 
 O:
 
