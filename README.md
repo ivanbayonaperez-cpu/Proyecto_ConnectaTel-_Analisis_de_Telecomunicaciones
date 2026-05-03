@@ -1,4 +1,4 @@
-# -Proyecto-ConnectaTel---An-lisis-de-Telecomunicaciones
+# 📱 Proyecto ConnectaTel - Análisis de Telecomunicaciones
 Análisis completo del comportamiento de uso de servicios móviles (llamadas y mensajes)  para ConnectaTel, empresa de telecomunicaciones con operaciones en México y Colombia.
 ## 🎯 Objetivos del Proyecto
 
