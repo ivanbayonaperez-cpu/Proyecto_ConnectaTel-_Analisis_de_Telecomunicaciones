@@ -13,8 +13,7 @@ Análisis completo del comportamiento de uso de servicios móviles (llamadas y m
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1sPA7zwj2I_G46gxSh56cbzv1s_qeELfu))]
-
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/ivanbayonaperez-cpu/-Proyecto-ConnectaTel---An-lisis-de-Telecomunicaciones/blob/main/S7_Project_ConnectaTel.ipynb)](URL_DEL_NOTEBOOK_EN_GITHUB)
 O:
 
 1. Abre el archivo `.ipynb` en GitHub
