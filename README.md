@@ -34,3 +34,49 @@ O:
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
+
+   ## 📈 Metodología del Proyecto
+
+### **Fase 1: Exploración y Carga**
+- Carga de 3 datasets (plans, users_latam, usage)
+- Análisis exploratorio inicial (.info(), .head(), .describe())
+
+### **Fase 2: Identificación de Problemas de Calidad**
+- Detección de valores nulos y sentinels (-999, "?")
+- Identificación de inconsistencias temporales
+- Análisis de tipos de datos
+
+### **Fase 3: Limpieza de Datos**
+- Reemplazo de valores sentinel por NaN
+- Imputación de city con "Sin información"
+- Validación de fechas y conversión de tipos
+- Manejo de nulos informativos (churn_date)
+
+### **Fase 4: Análisis Estadístico**
+- Summary statistics (media, mediana, percentiles)
+- Análisis de distribuciones
+- Identificación de valores atípicos
+
+### **Fase 5: Detección de Outliers**
+- Método IQR (Rango Intercuartílico)
+- Método Z-Score (desviaciones estándar)
+- Interpretación de negocio de outliers
+
+### **Fase 6: Segmentación de Clientes**
+- Segmentación por edad (Joven, Adulto, Adulto Mayor)
+- Segmentación por uso (Bajo, Medio, Alto)
+- Análisis cruzado de segmentos
+
+### **Fase 7: Visualización**
+- Histogramas de distribución
+- Boxplots para detección de outliers
+- Countplots de segmentos
+
+### **Fase 8: Insights y Recomendaciones**
+- Identificación de segmentos valiosos
+- Propuestas de nuevos planes
+- Roadmap de acciones prioritarias
+
+
+
+
