@@ -1,11 +1,19 @@
+
 # 📱 Proyecto ConnectaTel - Análisis de Telecomunicaciones
-Análisis completo del comportamiento de uso de servicios móviles (llamadas y mensajes)  para ConnectaTel, empresa de telecomunicaciones con operaciones en México y Colombia.
+
+nálisis completo del comportamiento de uso de servicios móviles (llamadas y mensajes) para **ConnectaTel**, empresa de telecomunicaciones con operaciones en México y Colombia.
+
+El proyecto integra tres fuentes de datos para identificar patrones de uso, detectar comportamientos atípicos, segmentar clientes y proporcionar recomendaciones comerciales accionables que optimicen la oferta de planes y mejoren la experiencia del usuario.
+
 ## 🎯 Objetivos del Proyecto
 
-- Identificar patrones de uso de llamadas y mensajes
-- Detectar comportamientos atípicos y posibles fraudes
-- Segmentar clientes por edad, plan y comportamiento
-- Proporcionar recomendaciones comerciales accionables
+- ✅ Integrar y limpiar bases de datos provenientes de tres fuentes distintas
+- ✅ Aplicar técnicas de validación y detección de valores inconsistentes
+- ✅ Construir un perfil estadístico del uso por cliente y segmentos demográficos
+- ✅ Detectar outliers y comportamientos atípicos mediante métodos estadísticos
+- ✅ Crear segmentaciones basadas en edad, país y comportamiento de uso
+- ✅ Visualizar diferencias entre segmentos y extraer insights comerciales
+- ✅ Documentar el proceso completo en Jupyter Notebook reproducible
 
 ## 📁 Estructura del Proyecto
 
@@ -26,9 +34,3 @@ O:
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
-## 🧠 Objetivo del análisis
-
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración de EverPeak
